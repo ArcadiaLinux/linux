@@ -1,8 +1,8 @@
 # SPDX-License-Identifier: GPL-2.0
 VERSION = 5
 PATCHLEVEL = 12
-SUBLEVEL = 1
-EXTRAVERSION = -Arcadia
+SUBLEVEL = 2
+EXTRAVERSION =
 NAME = Frozen Wasteland
 
 # *DOCUMENTATION*
